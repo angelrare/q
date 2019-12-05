@@ -9,7 +9,7 @@
   "author": "Alex Bardanov",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^3.8.17",
+    "mongoose": "^5.7.13",
     "q": "^1.0.1",
     "lodash": "^2.4.1"
   }
