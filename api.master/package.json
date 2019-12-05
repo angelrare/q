@@ -13,7 +13,7 @@
     "jade": "^1.4.2",
     "lodash": "^2.4.1",
     "method-override": "~1.0.0",
-    "mongoose": "~3.8.8",
+    "mongoose": "~5.7.13",
     "morgan": "~1.0.0",
     "newrelic": "^1.12.1",
     "node-schedule": "^0.1.13",
